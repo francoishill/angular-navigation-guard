@@ -1,0 +1,22 @@
+{
+  "name": "angular-navigation-guard",
+  "version": "0.0.1",
+  "authors": [
+    "Francois Hill <francoishill11@gmail.com>"
+  ],
+  "description": "Prevent navigation or redirect from the current page. Simple enable/disable with text to be shown to the user. Also supports angular-ui-router.",
+  "main": "navigationGuardService.js",
+  "keywords": [
+    "angular",
+    "navigation",
+    "ui-router"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
