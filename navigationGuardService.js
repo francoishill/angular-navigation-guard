@@ -1,4 +1,4 @@
-angular.module("navigationguard").service("navigationGuardService", [
+angular.module("navigationguard", []).service("navigationGuardService", [
   "$window", "$rootScope", function($window, $rootScope) {
     var enabledGuardTexts, getCurrentGuardMessage;
     enabledGuardTexts = [];
